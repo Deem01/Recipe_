@@ -1,4 +1,4 @@
-# Recipe App
+# Recipe App 🍽️
 
 ## Project Description
 
@@ -26,7 +26,7 @@
 3. **Edit and Delete Recipes**:
    - In the recipe detail view, you can edit the information or delete the recipe entirely.
 
-## Technologies Used
+## Technologies Used 
 
 - **SwiftUI**: For building the user interface.
 - **PhotosUI**: For selecting images from the photo library.
