@@ -40,7 +40,7 @@
 
 ## Contributing
 
-If you have any suggestions or improvements, feel free to open a pull request or create an issue in the repository.
+If you have any suggestions or improvements, feel free to open a pull request in the repository.
 
 ## Contact information
 
